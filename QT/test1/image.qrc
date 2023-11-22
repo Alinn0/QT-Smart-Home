@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/logo.png</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/窗帘 (1).png</file>
+        <file>image/窗帘 (2).png</file>
+        <file>image/窗帘.png</file>
+        <file>image/灯.png</file>
+        <file>image/关灯.png</file>
+        <file>image/开灯.png</file>
+        <file>image/空调1.png</file>
+        <file>image/空调2.png</file>
+        <file>image/空调3.png</file>
+        <file>image/天气.png</file>
+        <file>image/温度.png</file>
+        <file>image/音响 (1).png</file>
+        <file>image/音响 (2).png</file>
+        <file>image/音响.png</file>
+    </qresource>
+</RCC>
